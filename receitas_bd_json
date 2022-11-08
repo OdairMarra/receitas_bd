@@ -4,7 +4,7 @@
          "$oid":"10001"
       },
       "nome":"Mousse de limão",
-      "link_imagem":"http://data.whicdn.com/images/78859362/large.jpg",
+      "link_imagem":"https://www.sabornamesa.com.br/media/k2/items/cache/49d777cdd477e76dea7b279017b034de_XL.jpg",
       "ingredientes":"1 lata de leite condensado, 1 lata de creme de leite, 1/2 xícara de limão espremido",
       "modo_de_preparo":"Coloque o creme de leite e o leite condensado no liquidificador, bata um pouco e acrescente o suco de limão aos poucos. Quando a massa ficar consistente, coloque em um recipiente de vidro e leva à geladeira.",
       "grau_de_dificuldade":"Fácil",
@@ -17,7 +17,7 @@
          "$oid":"10002"
       },
       "nome":"Pão de queijo",
-      "link_imagem":"http://data.whicdn.com/images/70651372/large.jpg",
+      "link_imagem":"https://territoriosgastronomicos.uai.com.br/wp-content/uploads/2020/03/whatsapp-image-2020-03-14-at-215548-1.jpeg",
       "ingredientes":"1 caixa de creme de leite, 1 copo de queijo parmesão ralado, 1 copo de polvilho doce",
       "modo_de-preparo":"Pré aqueça o forno enquanto amassa todos os ingredientes até eles formarem uma massa (que não grude nas mãos), faça bolinhas e coloque para assar em uma forma untada.",
       "grau_de_dificuldade":"Médio",
@@ -69,7 +69,7 @@
          "$oid":"10006"
       },
       "nome":"Pão de queijo (sem fermento)",
-      "link_imagem":"http://ccook3.vila.to/receita/pao-de-queijo-de-liquidificador-f8-5282.jpg",
+      "link_imagem":"https://t1.rg.ltmcdn.com/pt/posts/1/3/1/pao_de_queijo_com_farinha_de_arroz_sem_gluten_2131_orig.jpg",
       "ingredientes":"1 caixinha de creme de leite (200 ml), 1 copo (requeijão) de queijo ralado (misturei parmesão e mussarela ralada), 1 copo (requeijão) de polvilho (usei polvilho doce)",
       "modo_de_preparo":"Amasse até soltar das mãos (caso precise um pouquinho a mais de polvilho, coloque aos poucos até que chegue ao ponto de enrolar). Faça bolinhas, coloque em forma untada e asse em forno pré-aquecido bem quente. Se achar necessário, acrescente sal. Asse até ficarem douradinhos levemente.",
       "grau_de_dificuldade":"Médio",
@@ -82,7 +82,7 @@
          "$oid":"10007"
       },
       "nome":"Massa com queijo",
-      "link_imagem":"http://www.jornaldaorla.com.br/arquivos/noticia/2014_5_6_15_47_56_2082.jpg",
+      "link_imagem":”https//img.itdg.com.br/tdg/images/recipes/000/037/939/323191/323191_original.jpg?mode=crop&width=710&height=400”,
       "ingredientes":"100 g de massinha, 400 ml de leite, 80 g de queijo",
       "modo_de_preparo":"Cozinhar a massa e durante este tempo preparamos o molho: esquentamos o leite, acrescentamos o queijo já ralado (emmental, cheddar ou parmesão), deixamos o queijo derreter e paramos a fervura. Escorremos a massa e colocamos o molho por cima. Envolvemos a massinha com o molho e servimos.",
       "grau_de_dificuldade":"Fácil",
@@ -95,7 +95,7 @@
          "$oid":"10008"
       },
       "nome":"Frango Caramelizado",
-      "link_imagem":"http://visaoregional.com.br/wp-content/uploads/2016/01/frango-caramelizado.jpg",
+      "link_imagem":"https://www.receitasagora.com.br/wp-content/uploads/2020/08/receita-de-frango-caramelizado.jpg",
       "ingredientes":"200 ml de Coca-Cola, 50ml de molho de soja, 10 coxas de frango",
       "modo_de_preparo":"Escolher uma Coca-Cola normal e não light ou diet. Coloque a Coca e o molho de soja numa panela e as coxas de frango. Deixe cozinhar lentamente, por tempo suficiente para que a carne do frango comece a soltar do osso, umas 4 a 5 horas. Retire as coxas e deixe o molho reduzir até ter uma textura de cobertura, uma calda. Derrame sobre as coxas e sirva com arroz branco.",
       "grau_de_dificuldade":"Médio",
@@ -147,7 +147,7 @@
          "$oid":"10012"
       },
       "nome":"Brigadeiro de Colher",
-      "link_imagem":"http://receitasde.blog.br/wp-content/uploads/2015/05/brigadeiro-de-colher.jpg",
+      "link_imagem":"https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2015/04/brigadeiro_colher.jpg",
       "ingredientes":"1 lata de leite condensado, 1 colher (sopa) manteiga e 2 colheres (sopa) chocolate em pó",
       "modo_de_preparo":"Misture o leite condensado, a manteiga, o creme de leite e o chocolate em pó em uma panela. Leve a panela ao fogo. Mexa bem até levantar um pouco de fervura e abaixe o fogo. Misture o chocolate meio amargo derretido no microondas. Espere esfriar, decore com confeitos coloridos ou chocolate granulado e está pronto.",
       "grau_de_dificuldade":"Fácil",
@@ -160,7 +160,7 @@
          "$oid":"10013"
       },
       "nome":"Frozen iogurte de morango",
-      "link_imagem":"http://data.whicdn.com/images/25686711/large.jpg",
+      "link_imagem": "https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-frozen-yogurt-01.jpg",
       "ingredientes":"4 potes de iogurte natural desnatado 1, 1/2 xícaras de chá de morangos congelados, 6 envelopes de adoçante",
       "modo_de_preparo":"Deixe o iogurte dessorar por 1 hora colocando os 4 potes de iogurte em um filtro de papel para café Despeje em uma vasilha e leve ao freezer para congelar Junte o iogurte com o morango no liquidificador (ambos congelados) Bata até misturar, junte o adoçante e misture Coloque em um refratário, cubra com papel filme bem junto ao refratário e leve ao freezer até servir",
       "grau_de_dificuldade":"Médio",
@@ -173,7 +173,7 @@
          "$oid":"10014"
       },
       "nome":"Baked potato (requeijao e parmesao)",
-      "link_imagem":"http://www.saga.co.uk/magazine/media/saga/publishing/verticals/food/cooking-tips/potatoes/diana-henrys-perfect-baked-potato-tips-192776024-1280.jpg",
+      "link_imagem":"https://www.receitas-sem-fronteiras.com/media/receita_de_batata_assada_com_queijo_610x300_crop.jpg/rh/batata-assada-com-recheio-delicia.jpg",
       "ingredientes":"1 batata grande, requeijão, parmesão",
       "modo_de_preparo":"Lave bem a batata com casca e faça alguns furos com um garfo em toda a superfície. Coloque sobre um prato ou recipiente de vidro e leve ao microondas por 8 minutos. Vire e cozinhe por mais 8 minutos. Espete um palito de dente dos dois lados e se ainda não estiver macia, adicione alguns minutos. Retire e enrole em papel alumínio para não esfriar. Faça um corte em uma das laterais e pressione com cuidado as duas pontas para que ela se abra. Agora é hora de rechear com o requeijão e o parmesão.",
       "grau_de_dificuldade":"Difícil",
@@ -212,8 +212,8 @@
          "$oid":"10017"
       },
       "nome":"Omelete de claras com peito de peru",
-      "link_imagem":"http://origin.qualysadia.com.br/sites/default/files/imagecache/img_dicas/geral/img/_15min_0012_omelete_claras_peito_peru_2.jpg",
-      "ingredientes":"4 claras de ovos, meia xicará (chá) de  peito de peru ralado grosso, 1 colher(sopa) margarina",
+      "link_imagem":"http://www.clinicastocco.com.br/images/receitas/omelete-light.jpg”,
+      "ingredientes":"4 claras de ovos, meia xícara (chá) de peito de peru ralado grosso, 1 colher(sopa) margarina",
       "modo_de_preparo":"Coloque as claras em uma tigela e bata ligeiramente com um batedor de arame ou garfo. Aqueça a margarina em uma frigideira antiaderente (com cerca de 21 cm de diâmetro) e despeje o peito de peru. Deixe secar um pouco e, de vez em quando, movimente a frigideira enquanto a omelete adquire consistência. Com o auxílio de uma espátula, dobre a omelete ao meio e sirva em seguida.",
       "grau_de_dificuldade":"Fácil",
       "avaliacao":"55 Avaliações - Nota 4.1/5",
@@ -238,7 +238,7 @@
          "$oid":"10019"
       },
       "nome":"Torta de nutella",
-      "link_imagem":"http://s2.glbimg.com/z_YI9zZlGz-danN4Orluslk8zKQ=/smart/e.glbimg.com/og/ed/f/original/2014/03/18/nutella_2.jpg",
+      "link_imagem":"https://s2.glbimg.com/-pcCE3e7hFOYzkJmtbagOZCtW9A=/0x0:620x372/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2013/02/18/22_35_12_72_Nutella_.jpg ",
       "ingredientes":"4 ovos, 240 g de nutella",
       "modo_de_preparo":"Bata os ovos inteiros por cerca de 6 minutos até que eles tripliquem de tamanho. Depois, coloque a Nutella em um recipiente de vidro e leve ao micro-ondas por aproximadamente 20 segundos para deixar a consistência mais fluida. Então, acrescente ⅓ da nutella aos ovos batidos misturando bem, e vá fazendo o mesmo com as duas outras partes até que todo o chocolate seja incorporado. Despeje a mistura em uma forma redonda forrada com papel manteiga untado, e coloque para assar em forno pré-aquecido a 175 graus por 20 ou 25 minutos (ou verifique com um palito se a torta já está assada). Só desenforme depois de completamente fria.",
       "grau_de_dificuldade":"Médio",
@@ -251,7 +251,7 @@
          "$oid":"10020"
       },
       "nome":"Chocolate quente",
-      "link_imagem":"http://emmafiorezi.com.br/blog/wp-content/uploads/2015/06/chocolate.jpg",
+      "link_imagem":"https://img.itdg.com.br/images/recipes/000/130/871/321194/321194_original.jpg ",
       "ingredientes":"240 ml de leite, 2 colheres de sopa de Nutella",
       "modo_de_preparo":"Coloque 1/4 do leite em uma panela e adicione as 2 colheres de Nutella (se você quiser, pode acrescentar mais!) e leve ao fogo médio-baixo. Incorpore o chocolate até que ele forme uma mistura homogênea e, então, adicione o restante do leite aos poucos, mexendo sem parar. Quando estiver bem quente, retire do fogo, coloque em uma xícara e veja se você consegue encontrar marshmallows, canela ou quem sabe chantilly para incrementar. ",
       "grau_de_dificuldade":"Fácil",
@@ -277,7 +277,7 @@
          "$oid":"10022"
       },
       "nome":"Muffins",
-      "link_imagem":"http://www.vilamulher.com.br/imagens/default/2014/01/14/muffins-de-brocolis-com-cheddar-6-75-1467.jpg",
+      "link_imagem":"http://thaismassa.com.br/wp-content/uploads/2018/09/WhatsApp-Image-2018-04-23-at-14.03.04.jpeg",
       "ingredientes":"4 ovos inteiros, 1 xícara de brócolis, meia xícara de queijo ralado",
       "modo_de_preparo":"Pré-aqueça o forno a 190°. Em uma vasilha misture 4 ovos inteiros, 1 xícara de brócolis (só as flores picadas) e 1/2 xícara de queijo cheddar ralado ou outro queijo de sua preferência. Leve ao forno de 12 a 15 minutos, até que o ovo esteja assado.",
       "grau_de_dificuldade":"Difícil",
