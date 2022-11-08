@@ -79,19 +79,6 @@
    },
    {
       "_id":{
-         "$oid":"10007"
-      },
-      "nome":"Massa com queijo",
-      "link_imagem":”https://s2.glbimg.com/lX5jO6lD87bJuwnaFJTwXSK4Rwg=/0x0:1366x768/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/6/2/7nuxNURA2aEkt9qYxj5g/macarrao-com-queijo-receita.jpg”,
-      "ingredientes":"100 g de massinha, 400 ml de leite, 80 g de queijo",
-      "modo_de_preparo":"Cozinhar a massa e durante este tempo preparamos o molho: esquentamos o leite, acrescentamos o queijo já ralado (emmental, cheddar ou parmesão), deixamos o queijo derreter e paramos a fervura. Escorremos a massa e colocamos o molho por cima. Envolvemos a massinha com o molho e servimos.",
-      "grau_de_dificuldade":"Fácil",
-      "avaliacao":"91 Avaliações - Nota 4.2/5",
-      "tempo_de_preparo":"45 min.",
-      "serve":"4 porções"
-   },
-   {
-      "_id":{
          "$oid":"10008"
       },
       "nome":"Frango Caramelizado",
@@ -206,108 +193,5 @@
       "avaliacao":"108 Avaliações - Nota 4.5/5",
       "tempo_de_preparo":"40 min.",
       "serve":"6 porções"
-   },
-   {
-      "_id":{
-         "$oid":"10017"
-      },
-      "nome":"Omelete de claras com peito de peru",
-      "link_imagem":"https://s2.glbimg.com/YDnGlc6BssPSydoIO8kuihJCy_Q=/0x0:924x615/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2021/2/i/QB8fXjR5akXsRR4qjEzg/omelete-de-claras.jpg”,
-      "ingredientes":"4 claras de ovos, meia xícara (chá) de peito de peru ralado grosso, 1 colher(sopa) margarina",
-      "modo_de_preparo":"Coloque as claras em uma tigela e bata ligeiramente com um batedor de arame ou garfo. Aqueça a margarina em uma frigideira antiaderente (com cerca de 21 cm de diâmetro) e despeje o peito de peru. Deixe secar um pouco e, de vez em quando, movimente a frigideira enquanto a omelete adquire consistência. Com o auxílio de uma espátula, dobre a omelete ao meio e sirva em seguida.",
-      "grau_de_dificuldade":"Fácil",
-      "avaliacao":"55 Avaliações - Nota 4.1/5",
-      "tempo_de_preparo":"25 min.",
-      "serve":"3 porções"
-   },
-   {
-      "_id":{
-         "$oid":"10018"
-      },
-      "nome":"Sorvete de Banana",
-      "link_imagem":"https://t2.uc.ltmcdn.com/pt/posts/2/7/0/como_fazer_sorvete_de_banana_14072_600.jpg",
-      "ingredientes":"1 ou mais banana",
-      "modo_de_preparo":"Descasque as bananas e pique-as em rodelas. Depois coloque-as num prato e leve-as ao ao refrigerador por um tempo de pelo menos 2 horas. Depois coloque as bananas num processador de alimentos. Ligue a máquina e processe a banana até que ela tenha a consistência de um creme suave, que nem sorvete mole. Isso vais demorar um tempinho, e no começo vai parecer que não funciona, mas deixe que a máquina faça seu trabalho e logo você terá um delicioso sorvete de banana. Uma vez que seu sorvete de um único ingrediente estiver pronto, leve-o ao refrigerador até que fique bem firme depois poderá comer à vontade.",
-      "grau_de_dificuldade":"Fácil",
-      "avaliacao":"55 Avaliações - Nota 4.4/5",
-      "tempo_de_preparo":"20 min.",
-      "serve":"4 porções"
-   },
-   {
-      "_id":{
-         "$oid":"10019"
-      },
-      "nome":"Torta de nutella",
-      "link_imagem":"https://s2.glbimg.com/-pcCE3e7hFOYzkJmtbagOZCtW9A=/0x0:620x372/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2013/02/18/22_35_12_72_Nutella_.jpg",
-      "modo_de_preparo":"Bata os ovos inteiros por cerca de 6 minutos até que eles tripliquem de tamanho. Depois, coloque a Nutella em um recipiente de vidro e leve ao micro-ondas por aproximadamente 20 segundos para deixar a consistência mais fluida. Então, acrescente ⅓ da nutella aos ovos batidos misturando bem, e vá fazendo o mesmo com as duas outras partes até que todo o chocolate seja incorporado. Despeje a mistura em uma forma redonda forrada com papel manteiga untado, e coloque para assar em forno pré-aquecido a 175 graus por 20 ou 25 minutos (ou verifique com um palito se a torta já está assada). Só desenforme depois de completamente fria.",
-      "grau_de_dificuldade":"Médio",
-      "avaliacao":"48 Avaliações - Nota 4.5/5",
-      "tempo_de_preparo":"28 min.",
-      "serve":"4 porções"
-   },
-   {
-      "_id":{
-         "$oid":"10020"
-      },
-      "nome":"Chocolate quente",
-      "link_imagem":"https://assets.unileversolutions.com/recipes-v2/54812.jpg",
-      "modo_de_preparo":"Coloque 1/4 do leite em uma panela e adicione as 2 colheres de Nutella (se você quiser, pode acrescentar mais!) e leve ao fogo médio-baixo. Incorpore o chocolate até que ele forme uma mistura homogênea e, então, adicione o restante do leite aos poucos, mexendo sem parar. Quando estiver bem quente, retire do fogo, coloque em uma xícara e veja se você consegue encontrar marshmallows, canela ou quem sabe chantilly para incrementar. ",
-      "grau_de_dificuldade":"Fácil",
-      "avaliacao":"71 Avaliações - Nota 4.1/5",
-      "tempo_de_preparo":"22 min.",
-      "serve":"2 porções"
-   },
-   {
-      "_id":{
-         "$oid":"10021"
-      },
-      "nome":"Macaroon cookies",
-      "link_imagem":"https://www.piesandtacos.com/wp-content/uploads/2019/02/samoa-macarons-12.jpg",
-      "ingredientes":"500 g de coco ralado, 1 lata de leite condensado",
-      "modo_de_preparo":"Basta misturar o coco ralado com o leite condensado e colocar bolinhas com a ajuda de uma colher em uma forma forrada com papel manteiga. Depois, leve para assar em um forno pré-aquecido a 180 graus por 10 ou 12 minutos ou até que as bolinhas fiquem levemente douradas.",
-      "grau_de_dificuldade":"Difícil",
-      "avaliacao":"115 Avaliações - Nota 4.5/5",
-      "tempo_de_preparo":"45 min.",
-      "serve":"4 porções"
-   },
-   {
-      "_id":{
-         "$oid":"10022"
-      },
-      "nome":"Muffins",
-      "link_imagem":"https://www.pequeocio.com/wp-content/uploads/2016/01/muffins-salados-broccoli-1-600x857.jpg",
-      "ingredientes":"4 ovos inteiros, 1 xícara de brócolis, meia xícara de queijo ralado",
-      "modo_de_preparo":"Pré-aqueça o forno a 190°. Em uma vasilha misture 4 ovos inteiros, 1 xícara de brócolis (só as flores picadas) e 1/2 xícara de queijo cheddar ralado ou outro queijo de sua preferência. Leve ao forno de 12 a 15 minutos, até que o ovo esteja assado.",
-      "grau_de_dificuldade":"Difícil",
-      "avaliacao":"88 Avaliações - Nota 4.6/5",
-      "tempo_de_preparo":"40 min.",
-      "serve":"6 porções"
-   },
-   {
-      "_id":{
-         "$oid":"10023"
-      },
-      "nome":"Peixe assado no forno",
-      "link_imagem":"https://s2.glbimg.com/pqdHeTsFSjfpyCLO_KjhJmT6S18=/0x0:1280x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/A/f/HcRMf3Qbe8eFZqYGYwVg/peixe-assado-no-forno.jpg",
-      "ingredientes":"1 quilo e meio de peixe inteiro e limpo, 300 mililitros de vinho branco seco, 1 vidro de leite de coco, 1 xícara de chá de azeite, 1 colher de chá de sal, 1 cebola, 5 dentes de alho, 2 tomates, 1 pimentão, Pimenta-do-reino a gosto, Cominho a gosto, Meio maço de cebolinha, Meio maço de coentro.",
-      "modo_de_preparo":"No liquidificador, coloque 300 mililitros de vinho branco seco, 1 vidro de leite de coco, 1 xícara de chá de azeite, 1 colher de chá de sal, 1 cebola, 5 dentes de alho, 1 pimentão sem sementes, 2 tomates, pimenta-do-reino a gosto, cominho em pó a gosto, meio maço de cebolinha e meio maço de coentro. Bata até misturar os ingredientes, Coloque o peixe em uma assadeira e faça cortes para absorver o molho. Espalhe o molho no peixe e deixe marinar em refrigeração por 2 horas. Cubra a assadeira com papel-alumínio e leve ao forno por 20 minutos. Retire o papel-alumínio e leve novamente ao forno para dourar. Se quiser, decore com rodelas de limão e fatias de pimentão. Sirva em seguida.",
-      "grau_de_dificuldade":"Difícil",
-      "avaliacao":"29 Avaliações - Nota 4.8/5",
-      "tempo_de_preparo":"50 min.",
-      "serve":"4 porções"
-   },
-   {
-      "_id":{
-         "$oid":"10024"
-      },
-      "nome":"Peito de frango recheado",
-      "link_imagem":"https://www.sabornamesa.com.br/images/receitas/pins_image/r165-receitas-com-peito-de-frango-pin.jpg",
-      "ingredientes":"2 peitos de frango, 2 xícaras (chá) de muçarela ralada, 1 xícara (chá) de farinha de trigo, Queijo parmesão a gosto, 1 pitadinha de sal, 2 sachês de molho de tomate pronto, 1 xícara (chá) de farinha de rosca, 2 ovos, Queijo parmesão à gosto.",
-	"modo_de_preparo":"Com os peitos de frango já limpos, faça um pequeno corte bem no meio deles, entretanto não separe as partes. Deixe as partes do frango unidas, afinal você quer rechear. Nesse corte que você fez, coloque bastante muçarela ralada e feche o peito. Depois, salpique um pouco de sal nos dois lados do frango. Em um recipiente coloque os ovos e o leite e misture. Em outro coloque as farinhas separadas. Pegue o peito de frango recheado e passe na farinha de trigo, depois no ovo com leite e por fim na farinha de rosca. Em uma panela com óleo bem quente, coloque os peitos de frango para fritar em fogo baixo até ficar dourado. Retire do fogo, deixe secar em um papel toalha. Em uma travessa coloque metade do molho de tomate, o peito de frango já frito e muçarela picada por cima. Depois, coloque o restante do molho por cima. Finalize com queijo parmesão ralado e leve ao forno à 180ºC por 10 minutos ou até derreter o queijo. Está pronto essa delícia.",
-      "grau_de_dificuldade":"Fácil",
-      "avaliacao":"29 Avaliações - Nota 5/5",
-      "tempo_de_preparo":"30 min.",
-      "serve":"2 porções"
    }
-
 ]
